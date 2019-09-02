@@ -10,3 +10,4 @@ To run it use
 ```
 $ ./output
 ```
+# elec5622-lab3
